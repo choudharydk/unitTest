@@ -1,5 +1,5 @@
 # unitTest using mocha and chai in javascript
 
-#git clone 
+#git clone https://github.com/choudharydk/unitTest.git
 
 #npm install
